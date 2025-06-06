@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/logo/metoda_logo_lighttheme.png" alt="Metoda logo" width="300"/>
+</p>
+
 # metoda_app
 
 A new Flutter project.
