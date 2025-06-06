@@ -1,4 +1,4 @@
-# metoda_app
+# Metoda
 
 A new Flutter project.
 
